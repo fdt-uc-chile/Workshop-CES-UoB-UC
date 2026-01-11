@@ -1,4 +1,4 @@
-name: cryoevap
+name: cryoevap-workshop
 channels:
   - conda-forge
   - defaults
@@ -8,3 +8,4 @@ dependencies:
   - matplotlib
   - scipy
   - coolprop
+  - ipkernel
