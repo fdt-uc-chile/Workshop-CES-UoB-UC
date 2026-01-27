@@ -8,4 +8,4 @@ dependencies:
   - matplotlib
   - scipy
   - coolprop
-  - ipkernel
+  - ipykernel
