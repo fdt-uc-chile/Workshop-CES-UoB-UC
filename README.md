@@ -16,8 +16,8 @@ git clone https://github.com/fdt-uc-chile/Workshop-CES-UoB-UC.git
 
 ## Step 2: Set Up the Conda Environment
 1. Open the Anaconda Prompt (or Miniconda terminal).
-2. Navigate to the folder where you cloned the repository.
-3. Create the Conda environment using the provided `environment.yml` file:
+2. In your Anaconda Prompt, Miniconda terminal or Terminal (Linux), change your working directory to the repository folder `Workshop-CES-UoB-UC`.
+3. Inside the folder, create the `conda` environment using the provided `environment.yml` file:
     ```bash
     conda env create -f environment.yml
     ```
